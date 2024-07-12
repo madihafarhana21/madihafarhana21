@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Madiha and I'm pursuing my masters degree in Data Science.
+- 👋 Hi, I’m Madiha. I am exploring all the exciting things in the field of Data science 🪐.
 
 
 <!---
